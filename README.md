@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me:
 Full Stack Developer with experience building scalable web applications using modern front-end and back-end technologies.
 
 
